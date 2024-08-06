@@ -515,7 +515,7 @@ section .section-header {
   .pilot-portrait {
     width: 104px;
     height: 136px;
-    object-fit: cover;
+    object-fit: contain;
   }
 
   .mech-portrait {
@@ -681,7 +681,7 @@ section .section-header {
   img.portrait {
     width: 600px;
     height: 662px;
-    object-fit: cover;
+    object-fit: contain;
   }
 
   .pilot-header-container {
